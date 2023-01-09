@@ -1,0 +1,30 @@
+*,*::after,*::before{
+    margin: 0;
+    padding: 0;
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     -o-box-sizing: border-box;
+     -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+li{
+    list-style-type: none;
+}
+section,header,footer,div,article,main,aside,nav,figure{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    width: 100%;
+    overflow-x: hidden;
+    font-size: 100%;
+    font-family: 'Oswald', sans-serif;
+}
+h5,h4,p{
+    font-family: 'Open Sans', sans-serif;
+}
