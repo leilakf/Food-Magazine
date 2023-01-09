@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "leila.kefayati.food",
   "name": "Food Magazine",
   "icons": [
     {
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "http://leilakefayati.ir/project/Food-Magazine/",
+  "start_url": "http://leilakefayati.ir/project/FoodMagazine/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"

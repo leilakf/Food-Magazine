@@ -1,6 +1,6 @@
 {
-  "name": "foodmagazine",
-  "homepage":"http://leilakefayati.ir/",
+  "name": "leila.kefayati.food",
+  "homepage":"http://leilakefayati.ir/project/FoodMagazine/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
